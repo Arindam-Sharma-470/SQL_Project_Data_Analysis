@@ -72,16 +72,6 @@ ORDER BY
 LIMIT 25;
 
 
--- To count the total no. of tuples 
-SELECT COUNT(*) AS total_count
-FROM
-  skills_demand
-INNER JOIN
-  average_salary
-ON
-  skills_demand.skill_id = average_salary.skill_id;
-
--- Output: 120
 
 -- Rewriting the above main query
 SELECT 
@@ -111,6 +101,6 @@ SELECT
   ORDER BY
   avg_yearly_salary DESC,
   demand_count DESC 
---LIMIT 25;
+LIMIT 25;
 
  

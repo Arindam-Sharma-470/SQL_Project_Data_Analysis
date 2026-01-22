@@ -1,0 +1,102 @@
+[
+  {
+    "skills": "sql",
+    "count_of_skills": "8"
+  },
+  {
+    "skills": "python",
+    "count_of_skills": "7"
+  },
+  {
+    "skills": "tableau",
+    "count_of_skills": "6"
+  },
+  {
+    "skills": "r",
+    "count_of_skills": "4"
+  },
+  {
+    "skills": "snowflake",
+    "count_of_skills": "3"
+  },
+  {
+    "skills": "pandas",
+    "count_of_skills": "3"
+  },
+  {
+    "skills": "excel",
+    "count_of_skills": "3"
+  },
+  {
+    "skills": "atlassian",
+    "count_of_skills": "2"
+  },
+  {
+    "skills": "jira",
+    "count_of_skills": "2"
+  },
+  {
+    "skills": "aws",
+    "count_of_skills": "2"
+  },
+  {
+    "skills": "azure",
+    "count_of_skills": "2"
+  },
+  {
+    "skills": "bitbucket",
+    "count_of_skills": "2"
+  },
+  {
+    "skills": "confluence",
+    "count_of_skills": "2"
+  },
+  {
+    "skills": "gitlab",
+    "count_of_skills": "2"
+  },
+  {
+    "skills": "go",
+    "count_of_skills": "2"
+  },
+  {
+    "skills": "numpy",
+    "count_of_skills": "2"
+  },
+  {
+    "skills": "oracle",
+    "count_of_skills": "2"
+  },
+  {
+    "skills": "power bi",
+    "count_of_skills": "2"
+  },
+  {
+    "skills": "jenkins",
+    "count_of_skills": "1"
+  },
+  {
+    "skills": "crystal",
+    "count_of_skills": "1"
+  },
+  {
+    "skills": "powerpoint",
+    "count_of_skills": "1"
+  },
+  {
+    "skills": "pyspark",
+    "count_of_skills": "1"
+  },
+  {
+    "skills": "hadoop",
+    "count_of_skills": "1"
+  },
+  {
+    "skills": "git",
+    "count_of_skills": "1"
+  },
+  {
+    "skills": "sap",
+    "count_of_skills": "1"
+  }
+]
